@@ -436,6 +436,7 @@
       "switch",
       "SWPR",
       "T3",
+      "Tango II",
       "tank solo",
       "tank ultimate",
       "TBS",
@@ -810,6 +811,29 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/Garretts_Modes.txt",
+      "hash": "c3eb843923da6b18f1eb06ba23f4c566e5613cab5250d1d06e1030ea9297782d",
+      "title": "Garrett's Default Modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch",
+        "Garrett",
+        "Tango II",
+        "TBS"
+      ],
+      "author": "Garrett Schafer",
       "priority": 0
     },
     {
