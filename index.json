@@ -1421,6 +1421,25 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/Garrett.txt",
+      "hash": "c372e53f28f042828a4f9472108e0eb099f6662a490d95082afd3dd245e4e0e7",
+      "title": "Garrett's Default Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual",
+        "Garrett"
+      ],
+      "author": "Garrett Schafer",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rates/Headsup533.txt",
       "hash": "bb53714f8457515e77798083084dea249404acf5bae5f93bcc464a532409a6fe",
       "title": "Headsup racing rates",
