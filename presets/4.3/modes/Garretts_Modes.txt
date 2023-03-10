@@ -6,6 +6,10 @@
 #$ AUTHOR: Garrett Schafer
 #$ DESCRIPTION: Sets modes to Garrett's default modes with the TBS Tango II TX
 
+# feature
+
+feature -AIRMODE
+
 # aux switch settings
 
 aux 0 0 0 1500 2100 0 0
